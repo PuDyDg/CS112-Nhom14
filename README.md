@@ -29,4 +29,5 @@
 | 16   | 96,6              | 3,48       | 5          | 1       | DFS, branch and bound                               | 9,48      | 7         |
 | 17   | 99                | 3,85       | 5          | 0,5     | Randomized Topological Sort, DP DAG                | 9,35      | 5         |
 
-## Link các bài báo cáo: https://drive.google.com/drive/u/5/folders/1XXikaYIWzU4fgjBLsf7QExJ9tK-kbQ1V2fG4A7U0eRbhYX_ovMUgnw-S2_LM2araTYMPtN5R
+## Link các bài báo cáo: 
+https://drive.google.com/drive/u/5/folders/1XXikaYIWzU4fgjBLsf7QExJ9tK-kbQ1V2fG4A7U0eRbhYX_ovMUgnw-S2_LM2araTYMPtN5R
